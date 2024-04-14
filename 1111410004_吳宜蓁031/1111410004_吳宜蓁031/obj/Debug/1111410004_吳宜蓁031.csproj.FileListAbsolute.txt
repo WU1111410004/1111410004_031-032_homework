@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\程式期中\1111410004_吳宜蓁031\1111410004_吳宜蓁031\bin\Debug\1111410004_吳宜蓁031.exe.config
+C:\Users\user\Downloads\程式期中\1111410004_吳宜蓁031\1111410004_吳宜蓁031\bin\Debug\1111410004_吳宜蓁031.exe
+C:\Users\user\Downloads\程式期中\1111410004_吳宜蓁031\1111410004_吳宜蓁031\bin\Debug\1111410004_吳宜蓁031.pdb
+C:\Users\user\Downloads\程式期中\1111410004_吳宜蓁031\1111410004_吳宜蓁031\obj\Debug\1111410004_吳宜蓁031.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\程式期中\1111410004_吳宜蓁031\1111410004_吳宜蓁031\obj\Debug\1111410004_吳宜蓁031.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\程式期中\1111410004_吳宜蓁031\1111410004_吳宜蓁031\obj\Debug\1111410004_吳宜蓁031.exe
+C:\Users\user\Downloads\程式期中\1111410004_吳宜蓁031\1111410004_吳宜蓁031\obj\Debug\1111410004_吳宜蓁031.pdb
